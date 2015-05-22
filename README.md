@@ -3,6 +3,7 @@ simple script to monitor ihubs
 
 
 @link https://forums.eveonline.com/default.aspx?g=posts&t=425751
+
 for long time n3 / na used special script to monitor they sov empire 
 this script was made to know whats in ihubs as well as to get estimates for sov costs etc...  
 scipt also included sov filtering + dotland links where possible
